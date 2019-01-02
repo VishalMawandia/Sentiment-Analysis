@@ -1,2 +1,10 @@
 # Sentiment-Analysis
 Predicting genres of the book just by processing the book title.The project is based on NLP and Naive Bayes Classification model
+Steps to run files:
+1)Install python 3 on your system
+2)make sure that both the files(Genre_prediction.py and bookScrap.py) are in the same directory
+3)Run the Genre_prediction file as:
+      python3 Genre_prediction.py
+The dataset would automatically be created by scrapping https://www.ranker.com/fact-lists/books/genre
+Enter the book name to predict it's Genre.
+Whoaaaa.
